@@ -1,0 +1,13 @@
+## Java
+*.class
+*.war
+
+## Idea
+.idea/
+*.iml
+
+## Gradle
+/local.properties
+.gradle/
+/build/
+/*/build/
